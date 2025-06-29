@@ -1,0 +1,20 @@
+list: user.uv_command
+-
+run
+init
+add
+remove
+version
+sync
+lock
+export
+tree
+tool
+python
+pip
+ven: venv
+build
+publish
+cache
+self
+help
