@@ -1,6 +1,7 @@
 [ "AppData/Roaming/talon/user/community" ]
     type = "git-repo"
-    url = "https://github.com/talonhub/community.git"
+    url = "https://github.com/ProfDoof/community.git"
+    clone.args = ["-b", "new_help_engine"] 
     refreshPeriod = "24h"
 [ "AppData/Roaming/talon/user/rango-talon" ]
     type = "git-repo"
